@@ -2,7 +2,7 @@
 This program implements three different algorithms to solve
 over-determined linear systems
 
-Author: Daniel Zapata Yarce
+Author: Daniel Zapata
 April 2023
 """
 import numpy as np
